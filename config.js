@@ -28,7 +28,7 @@ window.SITE_CONFIG = {
   },
 
   theme: {
-    heroBg: "#111111",
+    heroBg: "#2563eb",
     heroText: "#ffffff",
     pageBg: "#f8fafc",
     accent: "#2563eb"
