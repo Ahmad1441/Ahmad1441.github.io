@@ -190,9 +190,10 @@ window.SITE_CONFIG = {
       "This section clarifies academic context, roles, tools, and sources. Clear attribution improves credibility and shows ethical data handling.",
 
     members: [
-      { name: "Your Name", role: "Computer Vision + Simulation + KPI Analysis + Reporting" }
-      { name: "Your Name", role: "Computer Vision + Simulation + KPI Analysis + Reporting" }
-      { name: "Your Name", role: "Computer Vision + Simulation + KPI Analysis + Reporting" }
+    { name: "Your Name", role: "Computer Vision + Simulation + KPI Analysis + Reporting" },
+    { name: "Tricia Martinez", role: "Data collection + Literature review + Writing" },
+    { name: "Grace Mulcahy", role: "SUMO network setup + Calibration support" },
+    { name: "Dr. Peter Y. Park", role: "Supervision + Research direction" }
     ],
 
     acknowledgments: [
