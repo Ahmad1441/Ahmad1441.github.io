@@ -191,6 +191,8 @@ window.SITE_CONFIG = {
 
     members: [
       { name: "Your Name", role: "Computer Vision + Simulation + KPI Analysis + Reporting" }
+      { name: "Your Name", role: "Computer Vision + Simulation + KPI Analysis + Reporting" }
+      { name: "Your Name", role: "Computer Vision + Simulation + KPI Analysis + Reporting" }
     ],
 
     acknowledgments: [
