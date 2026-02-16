@@ -31,7 +31,7 @@ window.SITE_CONFIG = {
     heroBg: "#1F2328",
     heroText: "#ffffff",
     pageBg: "#f8fafc",
-    accent: "#2563eb"
+    accent: "#7c3aed"
   },
 
   dividers: {
